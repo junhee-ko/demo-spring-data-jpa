@@ -2,7 +2,7 @@
 
 Spring Data JPA Test
 
-## Feature
+## Summary
 
 Spring 은 트랜잭션 범위의 영속성 컨텍스트 전략을 사용. 즉,
 
